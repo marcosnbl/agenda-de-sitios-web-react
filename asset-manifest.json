@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-agendaweb-app/static/css/main.bf1ba70f.chunk.css",
-    "main.js": "/react-agendaweb-app/static/js/main.858ad340.chunk.js",
-    "main.js.map": "/react-agendaweb-app/static/js/main.858ad340.chunk.js.map",
-    "runtime-main.js": "/react-agendaweb-app/static/js/runtime-main.1d3f8856.js",
-    "runtime-main.js.map": "/react-agendaweb-app/static/js/runtime-main.1d3f8856.js.map",
-    "static/css/2.7dc5a135.chunk.css": "/react-agendaweb-app/static/css/2.7dc5a135.chunk.css",
-    "static/js/2.c0d1cd81.chunk.js": "/react-agendaweb-app/static/js/2.c0d1cd81.chunk.js",
-    "static/js/2.c0d1cd81.chunk.js.map": "/react-agendaweb-app/static/js/2.c0d1cd81.chunk.js.map",
-    "index.html": "/react-agendaweb-app/index.html",
-    "precache-manifest.106fc1af46d9a975cb6330c5315ce23b.js": "/react-agendaweb-app/precache-manifest.106fc1af46d9a975cb6330c5315ce23b.js",
-    "service-worker.js": "/react-agendaweb-app/service-worker.js",
-    "static/css/2.7dc5a135.chunk.css.map": "/react-agendaweb-app/static/css/2.7dc5a135.chunk.css.map",
-    "static/css/main.bf1ba70f.chunk.css.map": "/react-agendaweb-app/static/css/main.bf1ba70f.chunk.css.map",
-    "static/js/2.c0d1cd81.chunk.js.LICENSE.txt": "/react-agendaweb-app/static/js/2.c0d1cd81.chunk.js.LICENSE.txt"
+    "main.css": "/agenda-de-sitios-web-react/static/css/main.bf1ba70f.chunk.css",
+    "main.js": "/agenda-de-sitios-web-react/static/js/main.1d3ef3a3.chunk.js",
+    "main.js.map": "/agenda-de-sitios-web-react/static/js/main.1d3ef3a3.chunk.js.map",
+    "runtime-main.js": "/agenda-de-sitios-web-react/static/js/runtime-main.10c687fd.js",
+    "runtime-main.js.map": "/agenda-de-sitios-web-react/static/js/runtime-main.10c687fd.js.map",
+    "static/css/2.7dc5a135.chunk.css": "/agenda-de-sitios-web-react/static/css/2.7dc5a135.chunk.css",
+    "static/js/2.63de963c.chunk.js": "/agenda-de-sitios-web-react/static/js/2.63de963c.chunk.js",
+    "static/js/2.63de963c.chunk.js.map": "/agenda-de-sitios-web-react/static/js/2.63de963c.chunk.js.map",
+    "index.html": "/agenda-de-sitios-web-react/index.html",
+    "precache-manifest.bd6558fbb41f80d1772214ba73ca9c0b.js": "/agenda-de-sitios-web-react/precache-manifest.bd6558fbb41f80d1772214ba73ca9c0b.js",
+    "service-worker.js": "/agenda-de-sitios-web-react/service-worker.js",
+    "static/css/2.7dc5a135.chunk.css.map": "/agenda-de-sitios-web-react/static/css/2.7dc5a135.chunk.css.map",
+    "static/css/main.bf1ba70f.chunk.css.map": "/agenda-de-sitios-web-react/static/css/main.bf1ba70f.chunk.css.map",
+    "static/js/2.63de963c.chunk.js.LICENSE.txt": "/agenda-de-sitios-web-react/static/js/2.63de963c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d3f8856.js",
+    "static/js/runtime-main.10c687fd.js",
     "static/css/2.7dc5a135.chunk.css",
-    "static/js/2.c0d1cd81.chunk.js",
+    "static/js/2.63de963c.chunk.js",
     "static/css/main.bf1ba70f.chunk.css",
-    "static/js/main.858ad340.chunk.js"
+    "static/js/main.1d3ef3a3.chunk.js"
   ]
 }
